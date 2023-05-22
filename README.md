@@ -20,12 +20,12 @@ Ikuti langkah-langkah di bawah ini untuk menjalankan proyek ini di lingkungan pe
 1. Clone repositori ini ke direktori lokal:
 
    ```bash
-   git clone https://github.com/username/react-native-mapbox.git
+   git clone https://github.com/realiyams/MapboxReactNativeInit.git
    ```
 2. Buka terminal dan pindah ke direktori proyek:
 
    ```bash
-   cd react-native-mapbox
+   cd MapboxReactNativeInit
    ```
 3. Instal semua dependensi dengan menjalankan perintah berikut:
 
